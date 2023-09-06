@@ -1,2 +1,2 @@
-# datachain
-Hello, Data Chain!
+# DnaChain
+Hello, Dna Chain!
